@@ -9,3 +9,8 @@ burden of buying the expensive stylish pen and
 the board.
 
 This was the final project of the course Intelligent User Interfaces(Comp437) in Koc University. 
+
+Requirements:
+- Pyimagesearch package. 
+  https://www.pyimagesearch.com/
+
